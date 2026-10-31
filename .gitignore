@@ -1,0 +1,25 @@
+# Archivos temporales y de sistema
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Respaldos y volcados de base de datos
+*.dmp
+*.dump
+*.sqlnet
+
+# Editores
+.vscode/
+.idea/
+
+# Credenciales (nunca subir)
+*.env
+*.pem
+wallet/
+
+# Copias temporales de draw.io
+.$*.bkp
+*.bkp
